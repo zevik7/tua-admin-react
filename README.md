@@ -1,3 +1,6 @@
+# Learning React admin template
+Base on Tutorial: https://www.youtube.com/watch?v=q8cabjyUTVY&ab_channel=TuatTranAnh
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
